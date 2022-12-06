@@ -1,0 +1,49 @@
+C:\Users\mendo\Documents\Tercer Corte\Ingenieria de Software\proyecto\proyecto\obj\Debug\proyecto.csproj.AssemblyReference.cache
+C:\Users\mendo\Documents\Tercer Corte\Ingenieria de Software\proyecto\proyecto\obj\Debug\proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\mendo\Documents\Tercer Corte\Ingenieria de Software\proyecto\proyecto\obj\Debug\proyecto.Properties.Resources.resources
+C:\Users\mendo\Documents\Tercer Corte\Ingenieria de Software\proyecto\proyecto\obj\Debug\proyecto.csproj.GenerateResource.cache
+C:\Users\mendo\Documents\Tercer Corte\Ingenieria de Software\proyecto\proyecto\obj\Debug\proyecto.csproj.CoreCompileInputs.cache
+C:\Users\mendo\Documents\proyecto\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\mendo\Documents\proyecto\proyecto\bin\Debug\proyecto.exe
+C:\Users\mendo\Documents\proyecto\proyecto\bin\Debug\proyecto.pdb
+C:\Users\mendo\Documents\proyecto\proyecto\bin\Debug\Entidad.dll
+C:\Users\mendo\Documents\proyecto\proyecto\bin\Debug\Logica.dll
+C:\Users\mendo\Documents\proyecto\proyecto\bin\Debug\Datos.dll
+C:\Users\mendo\Documents\proyecto\proyecto\bin\Debug\MySql.Data.dll
+C:\Users\mendo\Documents\proyecto\proyecto\bin\Debug\Google.Protobuf.dll
+C:\Users\mendo\Documents\proyecto\proyecto\bin\Debug\ZstdNet.dll
+C:\Users\mendo\Documents\proyecto\proyecto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\mendo\Documents\proyecto\proyecto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mendo\Documents\proyecto\proyecto\bin\Debug\System.Memory.dll
+C:\Users\mendo\Documents\proyecto\proyecto\bin\Debug\System.Buffers.dll
+C:\Users\mendo\Documents\proyecto\proyecto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\mendo\Documents\proyecto\proyecto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\mendo\Documents\proyecto\proyecto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mendo\Documents\proyecto\proyecto\bin\Debug\Entidad.pdb
+C:\Users\mendo\Documents\proyecto\proyecto\bin\Debug\Logica.pdb
+C:\Users\mendo\Documents\proyecto\proyecto\bin\Debug\Datos.pdb
+C:\Users\mendo\Documents\proyecto\proyecto\bin\Debug\Datos.dll.config
+C:\Users\mendo\Documents\proyecto\proyecto\bin\Debug\MySql.Data.xml
+C:\Users\mendo\Documents\proyecto\proyecto\bin\Debug\Google.Protobuf.pdb
+C:\Users\mendo\Documents\proyecto\proyecto\bin\Debug\Google.Protobuf.xml
+C:\Users\mendo\Documents\proyecto\proyecto\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\mendo\Documents\proyecto\proyecto\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\mendo\Documents\proyecto\proyecto\bin\Debug\System.Memory.xml
+C:\Users\mendo\Documents\proyecto\proyecto\bin\Debug\System.Buffers.xml
+C:\Users\mendo\Documents\proyecto\proyecto\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\mendo\Documents\proyecto\proyecto\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\mendo\Documents\proyecto\proyecto\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mendo\Documents\proyecto\proyecto\obj\Debug\proyecto.csproj.AssemblyReference.cache
+C:\Users\mendo\Documents\proyecto\proyecto\obj\Debug\proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\mendo\Documents\proyecto\proyecto\obj\Debug\proyecto.exe.config
+C:\Users\mendo\Documents\proyecto\proyecto\obj\Debug\proyecto.Properties.Resources.resources
+C:\Users\mendo\Documents\proyecto\proyecto\obj\Debug\proyecto.csproj.GenerateResource.cache
+C:\Users\mendo\Documents\proyecto\proyecto\obj\Debug\proyecto.csproj.CoreCompileInputs.cache
+C:\Users\mendo\Documents\proyecto\proyecto\obj\Debug\proyecto.csproj.CopyComplete
+C:\Users\mendo\Documents\proyecto\proyecto\obj\Debug\proyecto.exe
+C:\Users\mendo\Documents\proyecto\proyecto\obj\Debug\proyecto.pdb
+C:\Users\mendo\Documents\proyecto\proyecto\obj\Debug\proyecto.RegistrarAnimal.resources
+C:\Users\mendo\Documents\proyecto\proyecto\obj\Debug\proyecto.RegistrarProduccion.resources
+C:\Users\mendo\Documents\proyecto\proyecto\obj\Debug\proyecto.CrearPropietario.resources
+C:\Users\mendo\Documents\proyecto\proyecto\obj\Debug\proyecto.InicioSesion.resources
+C:\Users\mendo\Documents\proyecto\proyecto\obj\Debug\proyecto.VisualizarAnimales.resources

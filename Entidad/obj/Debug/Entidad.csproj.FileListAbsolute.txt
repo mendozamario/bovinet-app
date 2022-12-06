@@ -1,0 +1,8 @@
+C:\Users\mendo\Documents\Tercer Corte\Ingenieria de Software\proyecto\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+C:\Users\mendo\Documents\Tercer Corte\Ingenieria de Software\proyecto\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\mendo\Documents\proyecto\Entidad\bin\Debug\Entidad.dll
+C:\Users\mendo\Documents\proyecto\Entidad\bin\Debug\Entidad.pdb
+C:\Users\mendo\Documents\proyecto\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+C:\Users\mendo\Documents\proyecto\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\mendo\Documents\proyecto\Entidad\obj\Debug\Entidad.dll
+C:\Users\mendo\Documents\proyecto\Entidad\obj\Debug\Entidad.pdb
